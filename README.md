@@ -12,7 +12,9 @@
 
 ## تحميل التطبيق (Android APK)
 
-- **[تحميل ملف app-release.apk مباشر للأندرويد](apk/app-release.apk)** (`43.3 MB`)
+[![Download APK](https://img.shields.io/badge/Download_APK-اله_حاسبه_بي_الاصول_(43.3_MB)-FF9F0A?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/ahmejklljk/-/main/apk/app-release.apk)
+
+- **رابط التحميل المباشر:** [اضغط هنا لتحميل app-release.apk مباشرة](https://raw.githubusercontent.com/ahmejklljk/-/main/apk/app-release.apk) (`43.3 MB`)
 
 ---
 
