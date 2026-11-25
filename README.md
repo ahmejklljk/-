@@ -10,6 +10,12 @@
 
 ---
 
+## تحميل التطبيق (Android APK)
+
+- **[تحميل ملف app-release.apk مباشر للأندرويد](apk/app-release.apk)** (`43.3 MB`)
+
+---
+
 ## المميزات
 
 - **تصميم Liquid Glass على طراز iPhone:**
